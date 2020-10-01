@@ -31,4 +31,3 @@ $ pipenv run python manage.py test
 ```bash
 $ pipenv run python manage.py runserver
 ```
-
